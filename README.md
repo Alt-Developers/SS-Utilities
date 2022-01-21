@@ -1,2 +1,2 @@
 # SS-Utilities
-SS' Discord but for SS' hideout discord server.
+SS' Discord bot for SS' hideout discord server.
